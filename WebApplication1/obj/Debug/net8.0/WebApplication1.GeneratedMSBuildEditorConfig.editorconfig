@@ -9,11 +9,27 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication1
 build_property.RootNamespace = WebApplication1
-build_property.ProjectDir = C:\Users\ASUS\OneDrive\Desktop\New folder\WebApplication1\
+build_property.ProjectDir = C:\Users\ASUS\OneDrive\Desktop\CuaHangBanDienThoai\WebApplication1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ASUS\OneDrive\Desktop\New folder\WebApplication1
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\OneDrive\Desktop\CuaHangBanDienThoai\WebApplication1
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ASUS/OneDrive/Desktop/CuaHangBanDienThoai/WebApplication1/Home/DangKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SG9tZVxEYW5nS3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/CuaHangBanDienThoai/WebApplication1/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/CuaHangBanDienThoai/WebApplication1/Home/LoiPhanquyen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SG9tZVxMb2lQaGFucXV5ZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/CuaHangBanDienThoai/WebApplication1/Home/MenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SG9tZVxNZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
